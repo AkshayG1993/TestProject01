@@ -13,7 +13,6 @@ import static org.testng.Assert.*;
 
 public class BlackPageTest00 extends BaseTest {
 
-
     @BeforeMethod
     public void beforeClass() {
         setDriver(new ChromeDriver());
